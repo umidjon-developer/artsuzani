@@ -1,4 +1,4 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import { ClerkProvider } from "@clerk/nextjs";
 import Whatsapp from "@/components/shared/whatsapp";
 import { Toaster } from "react-hot-toast";
@@ -57,7 +57,7 @@ export default async function LocaleLayout({
           sizes="180x180"
           href="/apple-touch-icon.png"
         />
-        <body>
+        <body suppressHydrationWarning>
           <NextTopLoader
             color="#3182CE"
             initialPosition={0.5}

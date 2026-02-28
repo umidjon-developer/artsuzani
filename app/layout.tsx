@@ -44,6 +44,7 @@ export default async function LocaleLayout({
   return (
     <ClerkProvider>
       <html lang="en" suppressHydrationWarning>
+        <meta name="google-site-verification" content="mYl6TcJAb1dNHwCa1VFTFD0kKZS9L8dpQOO8VjzRON0" />
         <link
           rel="icon"
           type="image/png"

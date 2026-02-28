@@ -1,4 +1,4 @@
-﻿import { getCategories } from "@/actions/category.actions";
+import { getCategories } from "@/actions/category.actions";
 import { getProducts } from "@/actions/product.actions";
 import Category from "@/components/shared/category";
 import Products from "@/components/shared/products";

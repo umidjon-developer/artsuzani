@@ -1,4 +1,4 @@
-﻿import type { NextConfig } from "next";
+import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
@@ -8,7 +8,12 @@ const nextConfig: NextConfig = {
     },
   },
   images: {
-    domains: ["avatars.mds.yandex.net", "dkm.gov.uz", "tourcentralasia.com"],
+    domains: [
+      "avatars.mds.yandex.net",
+      "dkm.gov.uz",
+      "tourcentralasia.com",
+      "0evi7lr5v8.ufs.sh",
+    ],
   },
 };
 

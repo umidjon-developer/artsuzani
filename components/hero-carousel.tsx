@@ -18,13 +18,13 @@ const slides = [
     alt: "Vintage Suzani embroidery detail",
     caption: "Vintage Suzani — handworked heritage",
   },
-  {
-    src: "https://avatars.mds.yandex.net/i?id=ecfde83c3d0099d7510fa2d5672a7dd2_l-5234838-images-thumbs&ref=rim&n=13&w=1200&h=600",
+{
+    src: "https://0evi7lr5v8.ufs.sh/f/LN78d9BJu8Qki9XTfbyAmpNgbM2oFeT1E0tjuwd7x6vh8kRI",
     alt: "Bukhara bazaar with textiles",
     caption: "From the bazaars of Bukhara",
   },
   {
-    src: "/image.png",
+    src: "https://0evi7lr5v8.ufs.sh/f/LN78d9BJu8QkNABTT79Cy1nRQeTGtbLOwEMIa278FAVPXWdz",
     alt: "Hand stitching on Suzani textile",
     caption: "Hand stitching — every thread matters",
   },
